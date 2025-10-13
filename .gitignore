@@ -1,0 +1,17 @@
+# Bỏ qua thư mục môi trường ảo
+.venv/
+venv/
+
+# Bỏ qua file Python tạm
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua dữ liệu lớn, notebook cache
+.ipynb_checkpoints/
+*.log
+
+# Bỏ qua các file hệ thống
+.DS_Store
+Thumbs.db
